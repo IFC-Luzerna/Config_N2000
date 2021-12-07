@@ -2,6 +2,8 @@
 
 Software para configuração / programação dos parâmetros do Controlador N2000 da Novus.
 
+![Config_N2000](./n2000_config.PNG)
+
 ## Características
 
 - Desenvolvido no software Elipse E3 (necessário instalá-lo para rodar a aplicação);
